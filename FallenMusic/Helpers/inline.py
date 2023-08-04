@@ -39,7 +39,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
             ],
             [
-            InlineKeyboardButton("⦓ ѕᴏᴜʀᴄᴇ ʀᴇғᴢ 𖤛⦔", url=f"https://t.me/def_Zoka"),
+            InlineKeyboardButton("⦓ ⦓ 𝐒𝐎𝐔𝐑𝐂𝐄 𝑺𝑶𝑯𝑨 𝐌𝐔𝐒𝐈𝐂🜪 ⦔ 𖤛⦔", url=f"https://t.me/lPPPPPPI"),
         ]
     ]
 )
@@ -54,12 +54,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="• اوامࢪ التشغيل •", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="• سوࢪس ࢪيفز •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سوࢪس سـهـۍ •", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/IC_X_K"
+            text="• مطوࢪ السورس •", url="https://t.me/ASAAQLP"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
@@ -74,12 +74,12 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="• سوࢪس ࢪيفز •", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="• سوࢪس سـهـۍ •", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="• جࢪوب الدعم •", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="• مطوࢪ السورس •", url="https://t.me/IC_X_K"
+            text="• مطوࢪ السورس •", url="https://t.me/ASAAQLP"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
     ],
