@@ -35,7 +35,7 @@ async def get_vars(_, message: Message):
     try:
         await app.send_message(
             chat_id=int(config.OWNER_ID),
-            text=f"""<u>**{BOT_NAME} ᴄᴏɴғɪɢ ᴠᴀʀɪᴀʙʟᴇs :**</u>
+            text=f"""<u>**{BOT_NAME} 𝐒𝐎𝐔𝐑𝐂𝐄 𝑺𝑶𝑯𝑨  :**</u>
 
 **ايبي ايدي :** `{config.API_ID}`
 **ايبي هاش :** `{config.API_HASH}`
