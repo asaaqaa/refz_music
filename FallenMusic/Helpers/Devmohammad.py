@@ -20,7 +20,7 @@ from random import  choice, randint
     & ~filters.edited
 )
 async def yas(client, message):
-    usr = await client.get_chat("ASAAQLP")
+    usr = await client.get_chat("ASAKIOP")
     name = usr.first_name
     photo = await app.download_media(usr.photo.big_file_id)
     await message.reply_photo(photo,       caption=f"**⩹━━𓆩𝑨𝑺𝑨𝑨𝑸𓆪━━⩺\n\n‍ ¦dev :{name}\n ¦user :@{usr.username}\n ¦id :`{usr.id}`\n ¦bio :{usr.bio}\n\n**⩹━━𓆩𝑨𝑺𝑨𝑨𝑸𓆪━━⩺**", 
@@ -33,12 +33,12 @@ async def yas(client, message):
             ]
         ),
  @app.on_message(
-    command("السورس")
+    command(["السورس"])
     & filters.group
     & ~filters.edited
 )
 async def yas(client, message):
-    usr = await client.get_chat("mcsec7")
+    usr = await client.get_chat("Mlze1bot")
     name = usr.first_name
     photo = await app.download_media(usr.photo.big_file_id)
     await message.reply_photo(photo,       caption=f"**⩹━━𓆩𝑺𝑶𝑯𝑨𓆪━━⩺\n\n‍ ¦dev :{name}\n ¦user :@mcsec7\n ¦id :`{usr.id}`\n ¦bio :{usr.bio}\n\n**⩹━━𓆩𝑺𝑶𝑯𝑨𓆪⁩━━⩺**", 
