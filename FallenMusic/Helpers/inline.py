@@ -39,7 +39,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
             ],
             [
-            InlineKeyboardButton("⦓ ⦓ 𝐒𝐎𝐔𝐑𝐂𝐄 𝑺𝑶𝑯𝑨 𝐌𝐔𝐒𝐈𝐂🜪 ⦔ 𖤛⦔", url=f"https://t.me/lPPPPPPI"),
+             [[InlineKeyboardButton(text="• مسح •", callback_data="close")]],
         ]
     ]
 )
